@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/sanityyoutube/node_modules
+/sanityyoutube
 
 # next.js
 /.next/
